@@ -16,11 +16,16 @@ Hi, I’m Asma.<br><br>Beginner developer currently learning Python, Java, DBMS 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # GitHub Stats:
-![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmatamkeen&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![Asma's Streak Stats](https://nirzak-streak-stats.vercel.app/?user=asmatamkeen&theme=rose&hide_border=false)
-<br/>
-![Asma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmatamkeen&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmatamkeen&show_icons=true&theme=rose" alt="Asma's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmatamkeen&layout=compact&theme=rose" alt="Asma's Top Languages" height="150" />
+</p>
+
+## GitHub Streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmatamkeen&theme=rose" alt="Asma's Streak Stats" />
+</p>
 
 ## GitHub Trophies
 ![Asma's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asmatamkeen&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
